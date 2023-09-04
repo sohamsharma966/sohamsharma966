@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw37Uyf2xb6KCdI-qJ0PSznJ&ust=1693908384973000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMC8qtDakIEDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1_qi6TZh6hpHLy7_pM6bxvBBP0qr7i53B/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsharma966&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsharma966" /> </p>
 
