@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Soham Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1_qi6TZh6hpHLy7_pM6bxvBBP0qr7i53B/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsharma966&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsharma966" /> </p>
 
 - 📫 How to reach me **sohamsharma966@gmail.com**
 
 ## Skills:
-- Security & tools
-  - Web, API, Network, Mobile Pentesting
-BurpSuite Pro, Zap
-Blue Team: Snort, Splunk, Wireshark
-DevSecOps:
-Docker, Kubernetes, YAML, Git and GitHub
-Dast, Sast
-Snyk, BurpSuite Enterprise
-Languages
-Python, Javascript, Bash
+- Security & tools.
+  - WebApp, API, Network, Mobile PenTesting, OWASP Top 10.
+  - BurpSuite Enterprise & Professional, Zap OWASP, Synk.
+  - Blue Team: Splunk, Wireshark.
+- DevSecOps.
+  - Docker, YAML, Git and GitHub
+  - DAST, SAST, GitOps.
+  - Snyk, BurpSuite Enterprise
+- Languages & Technology.
+  - Python, Javascript, Bash, SQL, PHP.
+  - Nodejs, Express, Github, AWS, Azure, Docker, Apache, MongoDB, MySQL.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
